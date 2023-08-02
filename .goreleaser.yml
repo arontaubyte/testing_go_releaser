@@ -4,7 +4,7 @@ release:
   # Default is extracted from the origin remote URL or empty if its private hosted.
   github:
     owner: arontaubyte
-    name: testing_go_builder
+    name: testing_go_releaser
 
   # If set to true, will not auto-publish the release.
   # Available only for GitHub and Gitea.
